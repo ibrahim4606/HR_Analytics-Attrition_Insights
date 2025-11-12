@@ -28,5 +28,7 @@
   🔴 Discovered patterns in attrition behavior
 
   🔴 Improved understanding of business analytics using Power BI
+<img width="1265" height="712" alt="image" src="https://github.com/user-attachments/assets/e840f2d8-23e7-488a-a0aa-ee05b97558d5" />
+
 
   🔴 Strengthened data visualization and reporting skills
